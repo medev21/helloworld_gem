@@ -1,4 +1,4 @@
-require "hello_medev21/version"
+# require "hello_medev21/version"
 
 module HelloMedev21
   class HelloMedev21

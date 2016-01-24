@@ -5,7 +5,7 @@ require 'hello_medev21/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "hello_medev21"
-  spec.version       = "0.1.3"
+  spec.version       = "0.1.4"
   spec.authors       = ["Martin Ben"]
   spec.email         = ["mebenav88@gmail.com"]
   spec.files         = ['lib/hello_medev21.rb']
